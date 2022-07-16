@@ -1,0 +1,50 @@
+## FUNDAMENTOS DA LÓGICA DE PROGRAMAÇÃO:leopard:
+
+**Lógica**
+A lógica defende o uso da razão para entender, calcular, processar, pesquisar, questionar e decidir sobre as coisas do mundo.
+**Algoritmo**
+Conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas
+
+***OBS***
+
+Planejamento do programa (estruturação do algoritmo)
+
+Programação (desenvolvimento do código)
+
+**ALGORITMO:** É a descrição detalhada das etapas que devem ser percorridas para se chegar a uma solução a descrição detalhada das etapas que devem ser percorridas para se chegar a uma solução.
+
+**PADRONIZAÇÃO:** Permite que diferentes profissionais de informática possam compreender o algoritmo.
+
+**CODIFICAÇÃO:** É a escrita do algoritmo a partir das regras e dos padrões de uma linguagem de programação.
+
+**INSTRUÇÃO:** É a informação que indica a um computador o que ele tem de fazer.
+
+**Algoritmos e suas Aplicações em Informática***
+
+**Descrição Narrativa**
+ Sequência de frases curtas, com comandos claros e encadeados em ordem lógica, é a forma mais simples de criar algoritmos. É muito usado em documentos como manuais de equipamentos, receitas culinárias, bulas de remédio, descrições do tipo faça você mesmo etc.
+
+**Fluxograma**
+
+Podem ser representados por um método gráfico, a principal função do diagrama é a de facilitar a visualização dos passos de um processamento. 
+
+**Pseudocódigo**
+É uma técnica natural, comum e originária a quem o codifica por meio de uma linguagem natural, no nosso caso, a língua portuguesa. Permite a compreensão por parte de qualquer pessoa e NÃO exige que nenhum padrão de sintaxe seja seguido na linguagem da programação.
+
+**Tipos de Dado**
+**DADOS LITERAIS OU CARACTERES** :São sequências contendo letras, números e outros símbolos especiais. Uma sequência de caracteres deve ser indicada entre aspas (“”). Esse tipo de dado é conhecido também como Alfanumérico, String, Literal ou Cadeia.
+**NUMÉRICOS REAIS:** Os dados numéricos reais são números positivos, negativos e fracionários. Como exemplo, temos: 584.87, -848.43, 84, 82, -19.20.
+**DADOS LÓGICOS:** Os dados lógicos são apenas dois valores utilizados por elementos condicionais para tomadas de decisão. Algumas bibliografias escrevem os valores lógicos entre pontos, para dar mais ênfase e diferenciá-los de outros conceitos ou definições (como variáveis ou valores literais). Por exemplo: .V. ou .F.
+
+**Uso e Funções de Constantes e Variáveis**
+
+Uma variável representa um endereço da memória RAM que armazena, temporariamente, valores e informações. Esses endereços recebem um nome e um conteúdo. Cada vez que mencionamos o nome da variável, seu conteúdo é manipulado.
+**Os nomes das variáveis:** 
+
+1) Devem sempre começar por uma letra.
+2) Não devem ter espaços em branco.
+3) Não devem ter caracteres especiais – no máximo, o símbolo sublinhado
+4) .**EX:**    **Nome_cliente**  
+5)  **Num_funcionario**  
+6)  **Datanascimento**
+
